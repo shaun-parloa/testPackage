@@ -1,7 +1,8 @@
 on:
-  push:
+  release:
+    types: [published]
 
-run-name: Publish ${{ github.ref }} to npm
+run-name: Publish ${{ "github.ref }} to npm
 
 defaults:
   run:
