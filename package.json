@@ -1,6 +1,6 @@
 {
   "name": "@shaunittner/testpackage",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "simple test package for coba service stub",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "devDependencies": {}
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  }
 }
