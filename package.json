@@ -1,6 +1,6 @@
 {
   "name": "@shaunittner/testpackage",
-  "version": "1.2.1",
+  "version": "1.4.0",
   "description": "simple test package for coba service stub",
   "main": "index.js",
   "scripts": {
